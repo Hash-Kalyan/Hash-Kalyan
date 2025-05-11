@@ -110,6 +110,14 @@
 
 ---
 
+### 📈 Language Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hash-Kalyan&layout=compact&theme=tokyonight" width="50%" />
+</p>
+
+---
+
 ### 📫 Let's Connect
 
 If you'd like to connect, collaborate, or just say hello, feel free to reach out via [email](mailto:hasvanthkalyan9@gmail.com) or [LinkedIn](https://www.linkedin.com/in/hasvanth-kalyan-g-13538a148).
