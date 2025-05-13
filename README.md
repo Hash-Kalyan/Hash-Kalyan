@@ -20,7 +20,7 @@
 
 ### 👨‍💻 About Me
 
-- 💼 6+ years of experience building robust software solutions
+- 💼 5+ years of experience building robust software solutions
 - 🧠 Strong background in **Data Engineering**, **AI/ML**, and **Test Automation**
 - ☁️ Proficient with **AWS**, **Azure**, **Kafka**, **SQL/ETL**, and scalable cloud systems
 - 🧰 Tools of choice: Python, Java, Node.js, React, Angular, TensorFlow, Selenium
